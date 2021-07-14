@@ -18,14 +18,11 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pablogiroud&theme=neon-palenight&hide_border=true)
 
-<h3 align="left">Languages and Tools:</h3>
-
-
 ## My Repos
 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=pablogiroud&repo=chronicles-e2e-interview&show_owner=true)](https://github.com/pablogiroud/chronicles-e2e-interview)
 
-**Languages and Tools:**  
+<h2 align="left">Languages and Tools:</h2>
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
