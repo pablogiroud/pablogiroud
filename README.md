@@ -1,9 +1,9 @@
 <h2 align="center"> Hi there community! I'm Pablo.</h2>
 
 - 🔭 I’m currently working on <a href='https://extrimian.com/'>Extrimian LLC</a>
-- 🌱 I’m currently learning JavaScript/React in <a href='https://rollingcodeschool.com/'>Rolling Code School</a>
-- 👯 I’m looking to collaborate on JavaScript Project and Cypress.io testing automation project
-- 💬 Ask me about QA and good practices
+- 🌱 I’m Full Stack developer with background on JavaScript, React, React Native, Node.JS and Mongo DB <a href='https://rollingcodeschool.com/'>Rolling Code School</a>
+- 👯 I’m looking to collaborate on JavaScript/React/React Native Projects and Cypress.io testing automation projects.
+- 💬 Ask me about QA, QA Automation, React stuffs and good practices.
 - 📫 How to reach me: pablogiroud@gmail.com
 
 <a href="https://instagram.com/pablogiroud" target="blank">Instagram: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Medium" height="30" width="40"/></a>
